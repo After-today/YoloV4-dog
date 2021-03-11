@@ -1,0 +1,14 @@
+# AP and precision/recall per class
+100.00% = dog AP 
+ Precision: ['1.00', '1.00', '1.00', '1.00', '1.00', '1.00', '1.00', '1.00', '1.00', '1.00', '0.91', '0.83', '0.77', '0.71']
+ Recall :['0.10', '0.20', '0.30', '0.40', '0.50', '0.60', '0.70', '0.80', '0.90', '1.00', '1.00', '1.00', '1.00', '1.00']
+
+
+# mAP of all classes
+mAP = 100.00%
+
+# Number of ground-truth objects per class
+dog: 10
+
+# Number of detected objects per class
+dog: 14 (tp:10, fp:4)

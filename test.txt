@@ -1,0 +1,10 @@
+D:\yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000001.jpg 93,140,344,551,0
+D:\yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000006.jpg 120,20,689,736,0
+D:\yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000015.jpg 309,4,690,670,0
+D:\yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000018.jpg 39,64,669,960,0
+D:\yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000020.jpg 5,61,497,683,0
+D:\yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000021.jpg 81,7,498,449,0
+D:\yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000022.jpg 74,22,460,468,0
+D:\yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000030.jpg 46,36,462,349,0
+D:\yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000032.jpg 138,77,540,659,0
+D:\yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000034.jpg 625,242,1271,860,0
